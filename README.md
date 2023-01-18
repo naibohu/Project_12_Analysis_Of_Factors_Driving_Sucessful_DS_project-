@@ -10,3 +10,5 @@ Utilize regular expression, NLTK to remove noise and remnants of web claws from 
 1. Run BERTopic model and LDA model to study major topic in articles
 2. Trian customize classifier to conduct sentiment analysis 
 3. Extract major entity, person, location using Spacy and NLTK
+4. Visualize reasons in word cloud.
+
